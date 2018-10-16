@@ -6,7 +6,7 @@ base style sheet for all themes
 */
 
 body{margin:0;padding:0 10px 10px 10px;font-family:arial,verdana,franklin gothic heavy,helvetica,sans-serif;font-size:.8em}
-#header{text-align:left;height:50px;padding-left:20px;font-size:2.2em;font-weight:bold}
+#header{text-align:left;height:70px;padding-left:30px;font-size:3.2em;font-weight:bold}
 a{text-decoration:none}
 a:hover,a:focus{text-decoration:underline}
 img.submit,img.help,img.info,img.gallery{border:0}
