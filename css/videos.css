@@ -1,0 +1,16 @@
+.logo-row {
+    text-align: left;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    text-align: left;
+}
+
+#principal {
+    background: #ffffff;
+    border: #000000 1px;
+    border-radius: 1px;
+    padding: 10px;
+}
